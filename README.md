@@ -14,6 +14,10 @@ Bot Crashed 😔 Can you help me for fix.
 
 **[@Farhan-Dqz](https://github.com/farhan-dqz)** Base
 
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manishkumar1601/Jessi)
+
 
 ### What Is MsJessica
 
